@@ -15,6 +15,12 @@
   "files.associations": {
     "*.js": "javascriptreact"
   },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
   "editor.minimap.renderCharacters": false,
   "breadcrumbs.enabled": false,
   "telemetry.telemetryLevel": "off",
