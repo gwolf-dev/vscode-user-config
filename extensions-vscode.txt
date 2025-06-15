@@ -1,0 +1,12 @@
+Lista das extensões que uso atualmente:
+
+- Auto Rename Tag [Jun Han]
+- Color Highlight [Sergii N]
+- ES7 React/Redux/GraphQL/React-Native snippets [rodrigovallades]
+- ESLint [Microsoft]
+- Prettier - Code formatter [Prettier]
+- Image preview [Kiss Tamás]
+- Live Server [Ritwick Dey]
+- Python [Microsoft]
+- Tailwind CSS IntelliSense [Tailwind Labs]
+- vscode-icons [VSCode Icons Team]
